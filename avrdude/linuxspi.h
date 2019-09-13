@@ -17,7 +17,7 @@
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  */
 
-#include "pgm.h"
+#include "libavrdude.h"
 
 #ifndef linuxspi_h
 #define linuxspi_h

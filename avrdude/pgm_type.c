@@ -40,6 +40,7 @@
 #include "jtagmkII.h"
 #include "jtag3.h"
 #include "linuxgpio.h"
+#include "linuxspi.h"
 #include "par.h"
 #include "pickit2.h"
 #include "ppi.h"

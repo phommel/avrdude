@@ -26,8 +26,7 @@
 #include "ac_cfg.h"
 
 #include "avrdude.h"
-#include "avr.h"
-#include "pindefs.h"
+#include "libavrdude.h"
 
 #if HAVE_SPIDEV
 
